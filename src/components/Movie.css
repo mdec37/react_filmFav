@@ -1,0 +1,12 @@
+.movie {
+    background-color: #ececec;
+    border: 1px solid black;
+    margin: 20px auto;
+    width: 600px;
+    padding: 12px;
+}
+
+.bookmark {
+    background-color: #000;
+    color: #fff;
+}
